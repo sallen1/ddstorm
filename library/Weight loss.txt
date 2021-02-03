@@ -4,3 +4,6 @@ Multiple myeloma
 lymphoma
 leukemia
 Bone marrow malignancy
+Liver disease
+Kidney disease
+Chronic infection
