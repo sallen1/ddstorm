@@ -1,2 +1,23 @@
 Pheochromocytoma
 Eclampsia
+Migraine
+Cervical degenerative joint disease
+Temporomandibular joint syndrome
+Caffeine use
+Nitrate use
+Benign thunderclap headache
+Idiopathic intracranial hypertension
+Upper respiratory tract infection
+Sinusitis
+Meningitis
+Temporal arteritis
+Subarachnoid hemorrhage
+Parenchymal hemorrhage
+Malignant hypertension
+Cavernous sinus thrombosis
+Brain tumor
+Subdural hematoma
+Hypoglycemia
+Head injury
+Concussion
+Carbon monoxide toxicity
