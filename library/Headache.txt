@@ -21,3 +21,6 @@ Hypoglycemia
 Head injury
 Concussion
 Carbon monoxide toxicity
+Sleep apnea
+Alcohol use
+Caffeine use

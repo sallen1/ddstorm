@@ -5,3 +5,41 @@ Pheochromocytoma
 Viral gastroenteritis
 Gallstones
 Pregnancy
+Constipation
+Gastritis
+Celiac disease
+Bowel obstruction
+Excessive eating
+Acute abdomen
+Peritonitis
+Ileus
+Food allergy
+Food poisoning
+Lactose intolerance
+Motion sickness
+Menieres disease
+Concussion
+Cerebral hemorrhage
+Migraine
+Brain tumor
+Benign intracranial hypertension
+Hydrocephalus
+Hypercalcemia
+Uremia
+Adrenal insufficiency
+Hypoglycemia
+Hyperglycemia
+Kidney failure
+Alcohol use
+Opioid use
+SSRI use
+Chemotherapy drugs
+Influenza
+Bulimia nervosa
+Purging disorder
+Eating disorders
+Intense emotions
+Coughing fits
+Anxiety
+Panic disorder
+
