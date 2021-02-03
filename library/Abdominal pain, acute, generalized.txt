@@ -12,6 +12,7 @@ Abdominal aortic aneurysm
 Nerve agent toxicity
 Pregnancy
 Pre-eclampsia
+Iron deficiency anemia
 
 #General medical diseases-
 Malaria
