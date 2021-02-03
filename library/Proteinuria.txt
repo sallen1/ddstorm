@@ -1,2 +1,37 @@
 Goodpastures
 Kidney disease
+Nephrotic disease
+Pre-eclampsia
+Eclampsia
+Amyloidosis
+Systemic lupus erythematosus
+Dehydration
+Glomerulonephritis
+IgA nephropathy
+Membranous nephropathy
+Sarcoidosis
+Alport syndrome
+Diabetes mellitus
+Fabry disease
+Infection
+Syphilis
+AIDS
+Hepatitis
+Schistosomiasis
+Fanconi syndrome 
+Wilson's disease
+Sickle cell disease
+Multiple myeloma
+Ebola virus disease
+Familial Mediterranean fever
+HELLP syndrome
+Rheumatoid arthritis
+Henoch–Schönlein purpura
+Urinary tract infection
+Sjögren syndrome
+Polycystic kidney disease
+Monoclonal gammopathy
+Waldenström's macroglobulinemia
+Chronic lymphocytic leukemia
+Leukemia
+Lymphoma

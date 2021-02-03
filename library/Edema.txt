@@ -19,3 +19,6 @@ Cirrhosis
 Liver disease
 Ovarian cancer
 Hypersensitivity reaction
+Goodpastures
+Amyloidosis
+Pregnancy

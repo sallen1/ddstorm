@@ -19,3 +19,5 @@ Malaria
 Tuberculosis
 Leukaemia
 Pheochromocytoma
+Graves disease
+

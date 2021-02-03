@@ -12,8 +12,8 @@ Uremia
 Thiamine deficiency
 Infection
 CNS infection
-Ischemic stroke
-Hemorrhagic stroke
+Transient ischemic attack
+Stroke
 Vasculitis
 CNS tumour
 Subdural hematoma
@@ -37,3 +37,4 @@ Sensory deprivation
 Severe illness
 Pneumonia
 Aspiration pneumonia
+

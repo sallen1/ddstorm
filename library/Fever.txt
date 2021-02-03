@@ -2,3 +2,4 @@ Pneumonia
 Influenza
 community acquired pneumonia
 Viral gastroenteritis
+Goodpastures

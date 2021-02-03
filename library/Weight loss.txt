@@ -8,3 +8,5 @@ Liver disease
 Kidney disease
 Chronic infection
 Pheochromocytoma
+Goodpastures
+Graves disease

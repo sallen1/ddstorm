@@ -9,3 +9,4 @@ Pancreatitis
 Serositis
 Nephrotic syndrome
 Hypothyroidism
+Amyloidosis
