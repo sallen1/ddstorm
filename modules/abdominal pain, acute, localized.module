@@ -1,10 +1,7 @@
-#Gastroduodenal
 Perforated peptic ulcer
 Perforated gastric carcinoma
 Acute gastritis
 Irritant poisons
-
-#Intestinal
 Small bowel obstruction
 Regional ileitis
 Intussusception
@@ -14,33 +11,22 @@ Large bowel obstruction
 Strangulated hernia
 Acute mesenteric occlusion
 Inflammatory bowel syndrome
-
-#Appendix
+Diverticulitis
 Acute appendicitis
-
-#Pancreas
 Acute pancreatitis
 Recurrent pancreatitis
 Pancreatic trauma
-
-#Gallbladder and bile ducts
 Gallstone
-CBD stone
+Cbd stone
 Acute cholecystitis
 Acute cholangitis
 Biliary disease
-
-#Liver
 Liver trauma
 Acute hepatitis
 Liver malignancy
-
-#Spleen
 Splenic trauma
 Spontaneous rupture of spleen
 Splenic infarction
-
-#Urinary tract & kidney
 Renal calculus
 Ureteric calculus
 Vesical calculus
@@ -48,8 +34,6 @@ Renal trauma
 Pyelonephritis
 Pyonephrosis
 Renal colic
-
-#Female genitalia
 Salpingitis
 Pyosalpinx
 Ectopic pregnancy
@@ -58,20 +42,10 @@ Degenaration of fibroid
 Twisted ovarian cyst
 Ruptured ovarian cyst
 Pelvic inflammatory disease
-
-#Aorta
 Ruptured abdominal aortic aneurysm
 Dissecting abdominal aortic aneurysm
-
-#CNS
 Herpes zoster
-
-#Cardiac
 Myocardial infarction
 Acute pericarditis
-
-#Pleura
 Acute diaphragmatic pleurisy
-
-#Metabolic
 Diabetic ketoacidosis

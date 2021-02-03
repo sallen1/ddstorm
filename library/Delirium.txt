@@ -1,0 +1,39 @@
+Dementia
+Dehydration
+Hypoglycemia
+Hyperglycemia
+Acidosis
+Alkalosis
+Liver disease
+Hypoxia
+Dehydration
+Thyroid disease
+Uremia
+Thiamine deficiency
+Infection
+CNS infection
+Ischemic stroke
+Hemorrhagic stroke
+Vasculitis
+CNS tumour
+Subdural hematoma
+Myocardial infarction
+Heart failure
+Arrythmia
+Alcohol withdrawal
+Narcotics withdrawal
+Anticholinergics
+Diuretics
+Prion disease
+Syphilis
+B12 deficiency
+Opioids
+Corticosteroids
+Antidepressants
+Anxiolytics
+Fecal impaction
+Urinary retention
+Sensory deprivation 
+Severe illness
+Pneumonia
+Aspiration pneumonia

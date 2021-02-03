@@ -1,0 +1,30 @@
+Diabetic ketoacidosis
+Ketoacidosis
+COPD
+Asthma
+Pulmonary oedema
+Pneumonia
+Renal failure
+Alcohol intoxication
+Alcoholism
+Starvation
+Hypoxia
+Pleural effusion
+Pneumothorax
+Pulmonary embolism
+Rhabdomyolysis
+Methanol toxicity
+Nerve agent toxicity
+Stroke
+Sleep apnea
+Amyotrophic lateral sclerosis
+Guillain-Barre syndrome
+Myasthenia gravis
+Spinal cord trauma
+Polio
+Flail chest
+Muscular dystrophy
+Diuretics
+Hyperaldosteronism
+Hypercortisolism
+Interstitial lung disease
