@@ -23,3 +23,6 @@ Chronic fatigue syndrome
 Idiopathic chronic fatigue
 Rheumatologic disease
 Constipation
+Haemolytic anemia
+Autoimmune-mediated haemolytic anemia
+

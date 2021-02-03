@@ -7,3 +7,5 @@ Hypersensitivity reaction
 Bronchospasm
 Respiratory tract infection
 Goodpastures
+Haemolytic anemia
+Autoimmune-mediated haemolytic anemia

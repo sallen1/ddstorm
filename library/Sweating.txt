@@ -18,5 +18,4 @@ Alcohol intoxication
 Malaria
 Tuberculosis
 Leukaemia
-
-
+Pheochromocytoma
