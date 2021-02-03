@@ -37,4 +37,6 @@ Sensory deprivation
 Severe illness
 Pneumonia
 Aspiration pneumonia
+Eclampsia
+
 

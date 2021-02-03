@@ -20,3 +20,5 @@ Hiatal hernia
 obesity
 interstitial pulmonary fibrosis
 Goodpastures
+Sarcoidosis
+Amyloidosis

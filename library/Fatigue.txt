@@ -27,3 +27,5 @@ Haemolytic anemia
 Autoimmune-mediated haemolytic anemia
 Goodpastures
 Pregnancy
+Sarcoidosis
+Systemic lupus erythematosus

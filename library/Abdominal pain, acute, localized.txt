@@ -59,6 +59,8 @@ Degenaration of fibroid
 Twisted ovarian cyst
 Ruptured ovarian cyst
 Pelvic inflammatory disease
+Pregnancy
+Pre-eclampsia
 
 #Aorta
 Ruptured abdominal aortic aneurysm

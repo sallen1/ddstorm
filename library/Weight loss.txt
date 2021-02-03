@@ -10,3 +10,4 @@ Chronic infection
 Pheochromocytoma
 Goodpastures
 Graves disease
+Sarcoidosis

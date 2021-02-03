@@ -5,3 +5,4 @@ Diabetes
 Insulin toxicity
 Nerve agent toxicity
 Aspiration pneumonia
+Systemic lupus erythematosus
