@@ -1,6 +1,7 @@
 Acute peritonitis
 Tuberculous peritonitis
 Intestinal obstruction
+Constipation
 Lead colic
 Gastric crises
 Functional abdominal pain

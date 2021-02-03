@@ -14,6 +14,7 @@ Cancer
 Chronic kidney disease
 Liver disease
 Chronic heart disease
+Heart failure
 Myositis
 Multiple sclerosis
 Infection
@@ -21,3 +22,4 @@ Chronic infection
 Chronic fatigue syndrome
 Idiopathic chronic fatigue
 Rheumatologic disease
+Constipation

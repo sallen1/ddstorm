@@ -18,3 +18,4 @@ Cellulitis
 Cirrhosis
 Liver disease
 Ovarian cancer
+Hypersensitivity reaction

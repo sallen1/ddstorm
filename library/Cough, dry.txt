@@ -7,3 +7,4 @@ Bronchitis
 Influenza
 community acquired pneumonia
 Aspiration pneumonia
+Goodpastures

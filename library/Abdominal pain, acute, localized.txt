@@ -6,6 +6,7 @@ Irritant poisons
 
 #Intestinal
 Small bowel obstruction
+Constipation
 Regional ileitis
 Intussusception
 Sigmoid volvulus
