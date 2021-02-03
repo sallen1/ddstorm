@@ -9,3 +9,4 @@ Respiratory tract infection
 Goodpastures
 Haemolytic anemia
 Autoimmune-mediated haemolytic anemia
+Atrial fibrillation
