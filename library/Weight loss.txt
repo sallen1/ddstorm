@@ -7,7 +7,6 @@ Sarcoidosis
 AIDS
 
 #Cancer
-
 Cancer
 CNS tumour
 Multiple myeloma

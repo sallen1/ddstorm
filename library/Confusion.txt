@@ -38,5 +38,6 @@ Severe illness
 Pneumonia
 Aspiration pneumonia
 Eclampsia
+Rhabdomyolysis
 
 

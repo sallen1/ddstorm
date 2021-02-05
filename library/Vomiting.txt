@@ -58,8 +58,9 @@ Intense emotions
 Anxiety
 Panic disorder
 
-#Renal
+#Nephrology
 Kidney failure
+Rhabdomyolysis
 
 #Respiratory
 Aspiration pneumonia

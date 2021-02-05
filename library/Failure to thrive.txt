@@ -21,3 +21,4 @@ Bronchopulmonary dysplasia
 Bronchiectasis
 Galactosemia
 Glycogen storage diseases
+DiGeorge syndrome
