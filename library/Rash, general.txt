@@ -25,5 +25,6 @@ Contact dermatitis
 Dermatitis
 
 #Autoimmune
+Common variable immunodeficiency
 Dermatomyositis
 Systemic lupus erythematosus

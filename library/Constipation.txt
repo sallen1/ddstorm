@@ -1,6 +1,5 @@
 Dehydration
 Fibre deficiency
-irritable bowel syndrome
 Hypothyroidism
 Diabetes
 Parkinson's disease
@@ -12,3 +11,8 @@ Opioid use
 Pheochromocytoma
 Pregnancy
 Bulimia nervosa
+
+#Autoimmune
+Common variable immunodeficiency
+Irritable bowel syndrome
+

@@ -1,5 +1,8 @@
 #Autoimmune
+Common variable immunodeficiency
 Graves disease
+Irritable bowel syndrome
+Severe combined immunodeficiency
 
 #Gastrointestinal
 Viral gastroenteritis

@@ -22,3 +22,7 @@ Blood dyscrasias
 Henoch's purpura
 Sickle cell anaemia
 Hypercalcaemia
+
+#Autoimmune
+Common variable immunodeficiency
+
