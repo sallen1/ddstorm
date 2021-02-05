@@ -3,6 +3,7 @@ AIDS
 Ataxia–telangiectasia
 Chronic lymphocytic leukemia
 Common variable immunodeficiency
+DiGeorge syndrome
 Lymphoma
 Myeloma
 Nephrotic syndrome
