@@ -1,3 +1,11 @@
+#Autoimmune
 Graves disease
+
+#Gastrointestinal
 Viral gastroenteritis
+
+#Infectious
+AIDS
+
+#Psychiatric
 Bulimia nervosa

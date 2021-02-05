@@ -1,45 +1,72 @@
-Nerve agent toxicity
-Aspiration pneumonia
-Mallory-Weiss tear
-Pheochromocytoma
-Viral gastroenteritis
-Gallstones
-Pregnancy
-Constipation
-Gastritis
-Celiac disease
-Bowel obstruction
-Excessive eating
-Acute abdomen
-Peritonitis
-Ileus
+#Autoimmune
 Food allergy
 Food poisoning
-Lactose intolerance
-Motion sickness
-Menieres disease
-Concussion
-Cerebral hemorrhage
-Migraine
-Brain tumor
-Benign intracranial hypertension
-Hydrocephalus
-Hypercalcemia
-Uremia
+
+#Endocrine
 Adrenal insufficiency
-Hypoglycemia
-Hyperglycemia
-Kidney failure
+
+#Environmental
+Nerve agent toxicity
+Excessive eating
 Alcohol use
 Opioid use
 SSRI use
 Chemotherapy drugs
+
+#Gastrointestinal
+Viral gastroenteritis
+Gallstones
+Constipation
+Gastritis
+Celiac disease
+Bowel obstruction
+Acute abdomen
+Peritonitis
+Ileus
+Lactose intolerance
+
+#Infectious
 Influenza
+AIDS
+
+#Malignancy
+Pheochromocytoma
+Brain tumor
+
+#Metabolic
+Hypercalcemia
+Uremia
+Hypoglycemia
+Hyperglycemia
+
+#Neurological
+Motion sickness
+Menieres disease
+Migraine
+Hydrocephalus
+Cerebral hemorrhage
+Benign intracranial hypertension
+
+#Obstetrics & Gynecological
+Pregnancy
+
+#Psychiatric
 Bulimia nervosa
 Purging disorder
 Eating disorders
 Intense emotions
-Coughing fits
 Anxiety
 Panic disorder
+
+#Renal
+Kidney failure
+
+#Respiratory
+Aspiration pneumonia
+Mallory-Weiss tear
+Coughing fits
+
+#Trauma
+Concussion
+
 
