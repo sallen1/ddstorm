@@ -2,3 +2,5 @@ Goodpastures
 Pheochromocytoma
 Iron deficiency
 Pre-eclampsia
+Acromegaly
+Vasculitis

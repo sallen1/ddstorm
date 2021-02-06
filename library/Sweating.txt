@@ -17,7 +17,8 @@ Caffeine usage
 Alcohol intoxication
 Malaria
 Tuberculosis
-Leukaemia
+Leukemia
 Pheochromocytoma
 Graves disease
+Acromegaly
 

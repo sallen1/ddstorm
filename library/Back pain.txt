@@ -1,7 +1,7 @@
 Cauda equina
 Spinal cord trauma
 Osteomyelitis
-CNS tumour
+CNS tumor
 CNS infection
 Spinal fracture
 Hernia
@@ -18,7 +18,7 @@ Renal disease
 Abdominal aortic aneurysm
 ankylosing spondylitis
 Rheumatoid arthritis
-Systemic lupus erythematosus
+Lupus erythematosus
 Lumbar reticulopathy
 Spinal stenosis
 Multiple myeloma
@@ -41,3 +41,4 @@ Pancreatitis
 Cholecystitis
 Penetrating ulcer
 Pregnancy
+Osteoporosis

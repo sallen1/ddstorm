@@ -5,12 +5,12 @@ Thrombocytopenia
 Bone marrow disease
 Bone marrow malignancy
 Alcohol
-B12 deficiency
+Vitamin B12 deficiency
 Splenic sequestration
 Autoimmune thrombocytopenia
 Idiopathic thrombocytopenic purpura
 AIDS
-Systemic lupus erythematosus
+Lupus erythematosus
 Multiple myeloma
 lymphoma
 leukemia

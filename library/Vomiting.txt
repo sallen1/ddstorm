@@ -25,9 +25,12 @@ Peritonitis
 Ileus
 Lactose intolerance
 
-#Infectious
+#Infectious disease
 Influenza
 AIDS
+Parasitic infection
+Malaria
+
 
 #Malignancy
 Pheochromocytoma

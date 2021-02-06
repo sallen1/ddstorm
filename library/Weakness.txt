@@ -3,3 +3,5 @@ Sarcoidosis
 Rhabdomyolysis
 Iron deficiency anemia
 Anemia
+Multiple sclerosis
+Vitamin B1 deficiency

@@ -24,3 +24,5 @@ Amyloidosis
 Pregnancy
 Pre eclampsia
 Complement deficiency
+Acromegaly
+Vitamin B1 deficiency

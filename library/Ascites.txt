@@ -10,3 +10,5 @@ Serositis
 Nephrotic syndrome
 Hypothyroidism
 Amyloidosis
+Hypothyroidism
+

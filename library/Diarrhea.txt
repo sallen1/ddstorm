@@ -7,7 +7,7 @@ Severe combined immunodeficiency
 #Gastrointestinal
 Viral gastroenteritis
 
-#Infectious
+#Infectious disease
 AIDS
 
 #Psychiatric

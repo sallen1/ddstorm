@@ -25,3 +25,6 @@ Sleep apnea
 Alcohol use
 Caffeine use
 Iron deficiency anemia
+Acromegaly
+Vasculitis
+Malaria

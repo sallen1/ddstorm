@@ -3,5 +3,11 @@ Influenza
 community acquired pneumonia
 Viral gastroenteritis
 Goodpastures
-Systemic lupus erythematosus
+Lupus erythematosus
 AIDS
+Vasculitis
+Lyme disease
+Parasitic infection
+Malaria
+Tuberculosis 
+Common cold

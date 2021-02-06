@@ -1,15 +1,15 @@
 Aplastic anemia
 Myelodysplasia
 Myelofibrosis
-Leukaemia
+leukemia
 Lymphoma
 Lymphoproliferative disorders
 Hypersplenism
-B12 deficiency
+Vitamin B12 deficiency
 acute alcohol intoxication
 tuberculosis
 sarcoidosis
-Systemic lupus erythematosus
+Lupus erythematosus
 Sepsis
 Disemminated intravascular coagulation 
 HIV
@@ -28,4 +28,5 @@ Monoclonal gammopathy
 Iron deficiency anemia
 Common variable immunodeficiency
 Iron deficiency anemia
-B12 deficiency
+Vitamin B12 deficiency
+Vitamin B1 deficiency

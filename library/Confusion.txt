@@ -15,7 +15,7 @@ CNS infection
 Transient ischemic attack
 Stroke
 Vasculitis
-CNS tumour
+CNS tumor
 Subdural hematoma
 Myocardial infarction
 Heart failure
@@ -26,7 +26,7 @@ Anticholinergics
 Diuretics
 Prion disease
 Syphilis
-B12 deficiency
+Vitamin B12 deficiency
 Opioids
 Corticosteroids
 Antidepressants

@@ -1,4 +1,5 @@
 Sjogren syndrome
 Rheumatoid arthritis
-Systemic lupus erythematosus
+Lupus erythematosus
 Vitamin A deficiency
+Scurvy

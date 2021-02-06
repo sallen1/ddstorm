@@ -22,7 +22,8 @@ Blood dyscrasias
 Henoch's purpura
 Sickle cell anemia
 Hypercalcaemia
+Parasitic infection
 
 #Autoimmune
 Common variable immunodeficiency
-
+Vasculitis

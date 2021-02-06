@@ -9,3 +9,6 @@ community acquired pneumonia
 Aspiration pneumonia
 Goodpastures
 Sarcoidosis
+Parasitic infection
+Malaria
+

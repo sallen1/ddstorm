@@ -15,6 +15,7 @@ Ringworm
 Kaposi's sarcoma
 Basal cell carcinoma
 Squamous cell carcinoma
+Leprosy
 
 #Dermatoligical
 Eczema
@@ -27,4 +28,4 @@ Dermatitis
 #Autoimmune
 Common variable immunodeficiency
 Dermatomyositis
-Systemic lupus erythematosus
+Lupus erythematosus

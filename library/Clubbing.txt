@@ -1,0 +1,19 @@
+Tuberculosis
+Lung cancer
+Lung infections
+Interstitial lung disease
+Cystic fibrosis
+Cardiovascular disease
+Heart disease
+Pneumonia
+Mesothelioma
+Arteriovenous fistula
+Sarcoidosis
+Hypoxia
+Endocarditis
+Tetralogy of Fallot
+Crohn's disease
+Ulcerative colitis
+Cirrhosis
+Graves' disease
+COPD

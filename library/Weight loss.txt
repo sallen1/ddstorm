@@ -5,10 +5,14 @@ Pheochromocytoma
 Graves disease
 Sarcoidosis
 AIDS
+Anorexia nervosa
+Parasitic infection
+Malaria
+Tuberculosis
 
 #Cancer
 Cancer
-CNS tumour
+CNS tumor
 Multiple myeloma
 Lymphoma
 Leukemia
@@ -17,3 +21,4 @@ Bone marrow malignancy
 #Autoimmunity
 Common variable immunodeficiency
 Goodpastures
+Vasculitis
