@@ -1,19 +1,19 @@
-Tuberculosis
+Arteriovenous fistula
+COPD
+Cardiovascular disease
+Cirrhosis
+Crohn's disease
+Cystic fibrosis
+Endocarditis
+Graves' disease
+Heart disease
+Hypoxia
+Interstitial lung disease
 Lung cancer
 Lung infections
-Interstitial lung disease
-Cystic fibrosis
-Cardiovascular disease
-Heart disease
-Pneumonia
 Mesothelioma
-Arteriovenous fistula
+Pneumonia
 Sarcoidosis
-Hypoxia
-Endocarditis
 Tetralogy of Fallot
-Crohn's disease
+Tuberculosis
 Ulcerative colitis
-Cirrhosis
-Graves' disease
-COPD

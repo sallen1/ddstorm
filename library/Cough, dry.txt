@@ -1,14 +1,14 @@
-Pneumonia
-COPD
-asthma
-Common cold
-Sinusitis
-Bronchitis
-Influenza
-community acquired pneumonia
 Aspiration pneumonia
+Bronchitis
+COPD
+Common cold
 Goodpastures
-Sarcoidosis
-Parasitic infection
+Influenza
 Malaria
+Parasitic infection
+Pneumonia
+Sarcoidosis
+Sinusitis
+asthma
+community acquired pneumonia
 

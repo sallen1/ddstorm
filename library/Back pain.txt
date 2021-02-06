@@ -1,44 +1,44 @@
-Cauda equina
-Spinal cord trauma
-Osteomyelitis
-CNS tumor
+Abdominal aortic aneurysm
 CNS infection
-Spinal fracture
+CNS tumor
+Cancer
+Cauda equina
+Cholecystitis
+Compression fracture
+Corticosteroids
+Endometriosis
+Epidural abscess
 Hernia
-Urinary tract infection
 Immunosupression
 Injection drugs use
-Corticosteroids
-Sciatica
-Compression fracture
-Cancer
-Pancreatitis
 Kidney stones
-Renal disease
-Abdominal aortic aneurysm
-ankylosing spondylitis
-Rheumatoid arthritis
-Lupus erythematosus
 Lumbar reticulopathy
-Spinal stenosis
+Lupus erythematosus
 Multiple myeloma
-lymphoma
-leukemia
-Osteomyelitis
-Septic diskitis
-Paraspinal abscess
-Epidural abscess
-Psoriatic arthritis
-Reactive arthritis
-Rheumatoid arthritis
-Prostatitis
-Endometriosis
-Pelvic inflammatory disease
 Nephrolithiasis
-Pyelonephritis
-Perinephric abscess
-Pancreatitis
-Cholecystitis
-Penetrating ulcer
-Pregnancy
+Osteomyelitis
+Osteomyelitis
 Osteoporosis
+Pancreatitis
+Pancreatitis
+Paraspinal abscess
+Pelvic inflammatory disease
+Penetrating ulcer
+Perinephric abscess
+Pregnancy
+Prostatitis
+Psoriatic arthritis
+Pyelonephritis
+Reactive arthritis
+Renal disease
+Rheumatoid arthritis
+Rheumatoid arthritis
+Sciatica
+Septic diskitis
+Spinal cord trauma
+Spinal fracture
+Spinal stenosis
+Urinary tract infection
+ankylosing spondylitis
+leukemia
+lymphoma

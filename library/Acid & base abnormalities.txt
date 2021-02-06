@@ -1,30 +1,30 @@
-Diabetic ketoacidosis
-Ketoacidosis
-COPD
-Asthma
-Pulmonary oedema
-Pneumonia
-Renal failure
 Alcohol intoxication
 Alcoholism
-Starvation
-Hypoxia
-Pleural effusion
-Pneumothorax
-Pulmonary embolism
-Rhabdomyolysis
-Methanol toxicity
-Nerve agent toxicity
-Stroke
-Sleep apnea
 Amyotrophic lateral sclerosis
-Guillain-Barre syndrome
-Myasthenia gravis
-Spinal cord trauma
-Polio
-Flail chest
-Muscular dystrophy
+Asthma
+COPD
+Diabetic ketoacidosis
 Diuretics
+Flail chest
+Guillain-Barre syndrome
 Hyperaldosteronism
 Hypercortisolism
+Hypoxia
 Interstitial lung disease
+Ketoacidosis
+Methanol toxicity
+Muscular dystrophy
+Myasthenia gravis
+Nerve agent toxicity
+Pleural effusion
+Pneumonia
+Pneumothorax
+Polio
+Pulmonary embolism
+Pulmonary oedema
+Renal failure
+Rhabdomyolysis
+Sleep apnea
+Spinal cord trauma
+Starvation
+Stroke

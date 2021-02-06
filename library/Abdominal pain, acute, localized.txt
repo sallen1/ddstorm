@@ -1,78 +1,78 @@
 #Gastroduodenal
-Perforated peptic ulcer
-Perforated gastric carcinoma
 Acute gastritis
 Irritant poisons
+Perforated peptic ulcer
+Perforated gastric carcinoma
 
 #Intestinal
-Small bowel obstruction
-Constipation
-Regional ileitis
-Intussusception
-Sigmoid volvulus
 Acute colonic diverticulitis
-Large bowel obstruction
-Strangulated hernia
 Acute mesenteric occlusion
+Constipation
 Inflammatory bowel syndrome
+Intussusception
+Large bowel obstruction
+Regional ileitis
+Sigmoid volvulus
+Small bowel obstruction
+Strangulated hernia
 
 #Appendix
 Acute appendicitis
 
 #Pancreas
 Acute pancreatitis
-Recurrent pancreatitis
 Pancreatic trauma
+Recurrent pancreatitis
 
 #Gallbladder and bile ducts
-Gallstone
-CBD stone
-Acute cholecystitis
 Acute cholangitis
+Acute cholecystitis
 Biliary disease
+CBD stone
+Gallstone
 
 #Liver
-Liver trauma
 Acute hepatitis
 Liver malignancy
+Liver trauma
 
 #Spleen
+Splenic infarction
 Splenic trauma
 Spontaneous rupture of spleen
-Splenic infarction
 
 #Urinary tract & kidney
-Renal calculus
-Ureteric calculus
-Vesical calculus
-Renal trauma
 Pyelonephritis
 Pyonephrosis
+Renal calculus
 Renal colic
+Renal trauma
+Ureteric calculus
+Vesical calculus
 
-#Female genitalia
-Salpingitis
-Pyosalpinx
-Ectopic pregnancy
-Torsion of fibroid
+#Obstetrics & Gynecological
 Degenaration of fibroid
-Twisted ovarian cyst
-Ruptured ovarian cyst
+Ectopic pregnancy
 Pelvic inflammatory disease
-Pregnancy
 Pre-eclampsia
+Pregnancy
+Pyosalpinx
+Ruptured ovarian cyst
+Salpingitis
+Torsion of fibroid
+Twisted ovarian cyst
 
 
 #Aorta
-Ruptured abdominal aortic aneurysm
 Dissecting abdominal aortic aneurysm
+Ruptured abdominal aortic aneurysm
 
 #CNS
 Herpes zoster
 
 #Cardiac
-Myocardial infarction
 Acute pericarditis
+Myocardial infarction
 
 #Pleura
 Acute diaphragmatic pleurisy

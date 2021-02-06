@@ -1,16 +1,16 @@
-Biliary disease
-Pancreatitis
-Splenic rupture
-Biliary disease
-Peptic ulcer
 Abdominal aortic aneurysm
-Appendicitis
 Acute mesenteric ischaemia
-Ectopic pregnancy
-Pelvic inflammatory diease
-Diverticulitis
 Amyloidosis
-Pregnancy
-Bulimia nervosa
-Rhabdomyolysis
 Anorexia nervosa
+Appendicitis
+Biliary disease
+Biliary disease
+Bulimia nervosa
+Diverticulitis
+Ectopic pregnancy
+Pancreatitis
+Pelvic inflammatory diease
+Peptic ulcer
+Pregnancy
+Rhabdomyolysis
+Splenic rupture

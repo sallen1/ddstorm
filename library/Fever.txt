@@ -1,13 +1,13 @@
-Pneumonia
-Influenza
-community acquired pneumonia
-Viral gastroenteritis
-Goodpastures
-Lupus erythematosus
 AIDS
-Vasculitis
-Lyme disease
-Parasitic infection
-Malaria
-Tuberculosis 
 Common cold
+Goodpastures
+Influenza
+Lupus erythematosus
+Lyme disease
+Malaria
+Parasitic infection
+Pneumonia
+Tuberculosis
+Vasculitis
+Viral gastroenteritis
+community acquired pneumonia

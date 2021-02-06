@@ -1,12 +1,11 @@
-Rhabdomyolysis
-Deep vein thrombosis
-Pulmonary embolism 
-Venous thromboembolism
 Antiphospholipid syndrome
-Sickle cell disease 
-Myeloproliferative disorders
-Polycythemia vera
-Nephrotic syndrome
-Pregnancy
+Deep vein thrombosis
 Hormonal contraceptive use
-
+Myeloproliferative disorders
+Nephrotic syndrome
+Polycythemia vera
+Pregnancy
+Pulmonary embolism
+Rhabdomyolysis
+Sickle cell disease
+Venous thromboembolism

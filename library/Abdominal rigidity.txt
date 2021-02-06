@@ -9,33 +9,33 @@ Rupture of gallbladder
 Acute pancreatitis
 
 #Small intestine
-Strangulated hernia
-Intestinal perforation
-Mesenteric thrombosis
-Mesenteric embolism
-Meckel's diverticulitis
 Acute ileitis
+Intestinal perforation
+Meckel's diverticulitis
+Mesenteric embolism
+Mesenteric thrombosis
+Strangulated hernia
 
 #Large intestine
 Appendicitis
-Volvulitis
 Perforated diverticulitis
+Volvulitis
 
 #Peritoneum
 Infective peritonitis
 
-#Female genital organs
-Twisted ovarian cyst
-Ruptured ectopic pregnancy
+#Obstetrics & Gynecological
 Acute salpingitis
-Torsion of fibroid
 Degeneration of fibroid
 Perforation of uterus
 Perforation of vagina
+Ruptured ectopic pregnancy
+Torsion of fibroid
+Twisted ovarian cyst
 
 #Spleen & liver
-Rupture of spleen
 Rupture of liver
+Rupture of spleen
 
 #Aorta
 Ruptured abdominal aortic aneurysm

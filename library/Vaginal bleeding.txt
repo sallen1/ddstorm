@@ -1,16 +1,16 @@
-Sexually transmitted infection
-Pelvic inflammatory disease
-Endometriosis
-Polyps
-Von Willebrand disease
-Leukemia
-Sexual abuse
-Ectopic pregnancy
-Miscarriage
 Abnormal uterine bleeding
 Cervical cancer
+Ectopic pregnancy
+Endometrial cancer
+Endometriosis
+Leukemia
+Miscarriage
+Ovarian cancer
+Pelvic inflammatory disease
+Polyps
+Primary fallopian tube cancer
+Sexual abuse
+Sexually transmitted infection
 Uterine cancer
 Vaginal cancer
-Endometrial cancer
-Primary fallopian tube cancer
-Ovarian cancer
+Von Willebrand disease

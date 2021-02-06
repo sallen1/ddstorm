@@ -1,9 +1,9 @@
-Amyloidosis
-Hyperthyroidism
-Cardiomyopathy
 Alcoholism
-Sleep apnea
+Amyloidosis
+Cardiomyopathy
 Coronary heart disease
-Mitral valve stenosis
+Hyperthyroidism
 Mitral regurgitation
+Mitral valve stenosis
 Pericarditis
+Sleep apnea

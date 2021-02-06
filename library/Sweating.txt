@@ -1,24 +1,23 @@
-Physical exertion
-Menopause
-Drug intoxication
-Trauma
-Anxiety
-PTSD
-Environmental toxins
-Hyperthyroidism
-Myocardial infarction
-Serotonin syndrome
-SSRI usage
-Infection
-Hypoglycemia
-Opiate intoxication
-Amphetamine intoxication
-Caffeine usage
-Alcohol intoxication
-Malaria
-Tuberculosis
-Leukemia
-Pheochromocytoma
-Graves disease
 Acromegaly
-
+Alcohol intoxication
+Amphetamine intoxication
+Anxiety
+Caffeine usage
+Drug intoxication
+Environmental toxins
+Graves disease
+Hyperthyroidism
+Hypoglycemia
+Infection
+Leukemia
+Malaria
+Menopause
+Myocardial infarction
+Opiate intoxication
+PTSD
+Pheochromocytoma
+Physical exertion
+SSRI usage
+Serotonin syndrome
+Trauma
+Tuberculosis

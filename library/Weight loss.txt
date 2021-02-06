@@ -1,23 +1,22 @@
-Liver disease
-Kidney disease
-Chronic infection
-Pheochromocytoma
-Graves disease
-Sarcoidosis
 AIDS
 Anorexia nervosa
-Parasitic infection
+Chronic infection
+Graves disease
+Kidney disease
+Liver disease
 Malaria
+Parasitic infection
+Pheochromocytoma
+Sarcoidosis
 Tuberculosis
 
 #Cancer
-Cancer
-CNS tumor
-Multiple myeloma
-Lymphoma
-Leukemia
 Bone marrow malignancy
-
+CNS tumor
+Cancer
+Leukemia
+Lymphoma
+Multiple myeloma
 #Autoimmunity
 Common variable immunodeficiency
 Goodpastures

@@ -1,7 +1,7 @@
 AIDS
-Sarcoidosis
-Rhabdomyolysis
-Iron deficiency anemia
 Anemia
+Iron deficiency anemia
 Multiple sclerosis
+Rhabdomyolysis
+Sarcoidosis
 Vitamin B1 deficiency

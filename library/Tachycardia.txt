@@ -1,18 +1,18 @@
-Haemolytic anemia
-Autoimmune mediated haemolytic anemia
-Anxiety
-Anemia
-Hypoglycemia
-Hypovolemia
-Hyperventilation
-Sleep deprivation
-Wolff Parkinson White syndrome
-Stimulant use
+Adrenergic storm
 Alcohol use
+Anemia
+Anorexia nervosa
+Anxiety
+Autoimmune mediated haemolytic anemia
 Cannabis use
 Drug withdrawal
-Adrenergic storm
+Haemolytic anemia
+Hyperventilation
+Hypoglycemia
+Hypovolemia
+Iron deficiency anemia
 Pheochromocytoma
 Shock
-Iron deficiency anemia
-Anorexia nervosa
+Sleep deprivation
+Stimulant use
+Wolff Parkinson White syndrome

@@ -1,14 +1,14 @@
-Leprosy
-Stroke
-Stroke
-Spinal trauma
-Poliomyelitis
-Cerebral palsy
-Peripheral neuropathy
-Parkinson's disease
 ALS
 Botulism
-Spina bifida
+Cerebral palsy
+Guillain Barre syndrome
+Leprosy
 Multiple sclerosis
-Guillain–Barré syndrome
 Panic disorder
+Parkinson's disease
+Peripheral neuropathy
+Poliomyelitis
+Spina bifida
+Spinal trauma
+Stroke
+Stroke

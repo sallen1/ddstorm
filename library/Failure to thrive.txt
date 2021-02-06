@@ -1,24 +1,24 @@
-Severe combined immunodeficiency
-Poverty
-Poor nutrition
-Child neglect
-Gastroesophageal reflux disease
-Pyloric stenosis
-Lactose intolerance
-Coeliac disease
-Short bowel syndrome
-Cystic fibrosis
 Biliary atresia
-Hyperthyroidism
-Chronic infections
-Tuberculosis
-HIV
-TORCH infection
-Inflammatory bowel disease
-Diabetes mellitus
-Congenital heart defect
-Bronchopulmonary dysplasia
 Bronchiectasis
-Galactosemia
-Glycogen storage diseases
+Bronchopulmonary dysplasia
+Child neglect
+Chronic infections
+Coeliac disease
+Congenital heart defect
+Cystic fibrosis
 DiGeorge syndrome
+Diabetes mellitus
+Galactosemia
+Gastroesophageal reflux disease
+Glycogen storage diseases
+HIV
+Hyperthyroidism
+Inflammatory bowel disease
+Lactose intolerance
+Poor nutrition
+Poverty
+Pyloric stenosis
+Severe combined immunodeficiency
+Short bowel syndrome
+TORCH infection
+Tuberculosis

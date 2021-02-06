@@ -6,60 +6,60 @@ Food poisoning
 Adrenal insufficiency
 
 #Environmental
-Nerve agent toxicity
-Excessive eating
 Alcohol use
+Chemotherapy drugs
+Excessive eating
+Nerve agent toxicity
 Opioid use
 SSRI use
-Chemotherapy drugs
 
 #Gastrointestinal
-Viral gastroenteritis
-Gallstones
-Constipation
-Gastritis
-Celiac disease
-Bowel obstruction
 Acute abdomen
-Peritonitis
+Bowel obstruction
+Celiac disease
+Constipation
+Gallstones
+Gastritis
 Ileus
 Lactose intolerance
+Peritonitis
+Viral gastroenteritis
 
 #Infectious disease
-Influenza
 AIDS
-Parasitic infection
+Influenza
 Malaria
+Parasitic infection
 
 
 #Malignancy
-Pheochromocytoma
 Brain tumor
+Pheochromocytoma
 
 #Metabolic
 Hypercalcemia
-Uremia
-Hypoglycemia
 Hyperglycemia
+Hypoglycemia
+Uremia
 
 #Neurological
-Motion sickness
+Benign intracranial hypertension
+Cerebral hemorrhage
+Hydrocephalus
 Menieres disease
 Migraine
-Hydrocephalus
-Cerebral hemorrhage
-Benign intracranial hypertension
+Motion sickness
 
 #Obstetrics & Gynecological
 Pregnancy
 
 #Psychiatric
+Anxiety
 Bulimia nervosa
-Purging disorder
 Eating disorders
 Intense emotions
-Anxiety
 Panic disorder
+Purging disorder
 
 #Nephrology
 Kidney failure
@@ -67,8 +67,8 @@ Rhabdomyolysis
 
 #Respiratory
 Aspiration pneumonia
-Mallory-Weiss tear
 Coughing fits
+Mallory-Weiss tear
 
 #Trauma
 Concussion

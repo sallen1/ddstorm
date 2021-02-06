@@ -1,18 +1,17 @@
-Bulimia nervosa
-Hormonal contraceptive use
-Perimenopause
-Prader Willi syndrome
-Graves disease
-Thryotoxicosis
-Pituitary tumor
-Athletic amenorrhoea
-Polycystic ovary syndrome
-Turners Syndrome
-Mullerian agenesis
-Pregnancy
-Thyroid disease
-Hyperprolactinemia
 Anorexia nervosa
-Hypothyroidism
+Athletic amenorrhoea
+Bulimia nervosa
+Graves disease
 Hashimoto's thyroiditis
-
+Hormonal contraceptive use
+Hyperprolactinemia
+Hypothyroidism
+Mullerian agenesis
+Perimenopause
+Pituitary tumor
+Polycystic ovary syndrome
+Prader Willi syndrome
+Pregnancy
+Thryotoxicosis
+Thyroid disease
+Turners Syndrome

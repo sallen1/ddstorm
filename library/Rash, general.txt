@@ -1,29 +1,29 @@
 Allergy
 Anxiety
-Skin irritant
-Fungal infection
-Syphilis
-Psoriasis
-Lyme disease
-Cellulitis
-Insect bite
-Measles
-Chickenpox
-Shingles
-Fifth disease
-Ringworm
-Kaposi's sarcoma
 Basal cell carcinoma
-Squamous cell carcinoma
+Cellulitis
+Chickenpox
+Fifth disease
+Fungal infection
+Insect bite
+Kaposi's sarcoma
 Leprosy
+Lyme disease
+Measles
+Psoriasis
+Ringworm
+Shingles
+Skin irritant
+Squamous cell carcinoma
+Syphilis
 
 #Dermatoligical
-Eczema
-Acne vulgaris
-Acne rosacea
 Acne inversa
+Acne rosacea
+Acne vulgaris
 Contact dermatitis
 Dermatitis
+Eczema
 
 #Autoimmune
 Common variable immunodeficiency

@@ -1,32 +1,30 @@
+Acute alcohol intoxication
+Antiphospholipid syndrome
 Aplastic anemia
-Myelodysplasia
-Myelofibrosis
-leukemia
+Common variable immunodeficiency
+Copper toxicity
+Disemminated intravascular coagulation
+Drug intoxication
+Endocrinopathy
+HELLP syndrome
+HIV
+Hemolytic uremic syndrome
+Hypersplenism
+Iron deficiency
+Iron deficiency anemia
+Lead toxicity
+Leukemia
+Lupus erythematosus
 Lymphoma
 Lymphoproliferative disorders
-Hypersplenism
-Vitamin B12 deficiency
-acute alcohol intoxication
-tuberculosis
-sarcoidosis
-Lupus erythematosus
-Sepsis
-Disemminated intravascular coagulation 
-HIV
-Thrombotic thrombocytopenic purpura 
-Hemolytic uremic syndrome
-HELLP syndrome
-Antiphospholipid syndrome 
-Drug intoxication
-Lead toxicity
-Copper toxicity
-Zinc toxicity
-Iron deficiency
-Thalassemia
-Endocrinopathy
 Monoclonal gammopathy
-Iron deficiency anemia
-Common variable immunodeficiency
-Iron deficiency anemia
-Vitamin B12 deficiency
+Myelodysplasia
+Myelofibrosis
+Sarcoidosis
+Sepsis
+Thalassemia
+Thrombotic thrombocytopenic purpura
+Tuberculosis
 Vitamin B1 deficiency
+Vitamin B12 deficiency
+Zinc toxicity

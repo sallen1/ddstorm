@@ -1,19 +1,19 @@
-Vitamin A deficiency
-Cataracts
-Glaucoma
 Age-related macular degeneration
-Diabetic retinopathy
-Corneal opacification
-Optic atrophy
-CNS tumor
 Brain tumor
-Trauma
+CNS tumor
+Cataracts
 Concussion
-Retinal vessel occlusion
-Migraine
-Retinal vasospasm
+Corneal opacification
+Diabetic retinopathy
 Epilepsy
-Vasculitis
+Glaucoma
+Migraine
 Multiple sclerosis
-Vitamin B1 deficiency
+Optic atrophy
 Pituitary tumor
+Retinal vasospasm
+Retinal vessel occlusion
+Trauma
+Vasculitis
+Vitamin A deficiency
+Vitamin B1 deficiency

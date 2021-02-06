@@ -1,30 +1,32 @@
-Pheochromocytoma
-Eclampsia
-Migraine
-Cervical degenerative joint disease
-Temporomandibular joint syndrome
-Caffeine use
-Nitrate use
-Benign thunderclap headache
-Idiopathic intracranial hypertension
-Upper respiratory tract infection
-Sinusitis
-Meningitis
-Temporal arteritis
-Subarachnoid hemorrhage
-Parenchymal hemorrhage
-Malignant hypertension
-Cavernous sinus thrombosis
-Brain tumor
-Subdural hematoma
-Hypoglycemia
-Head injury
-Concussion
-Carbon monoxide toxicity
-Sleep apnea
-Alcohol use
-Caffeine use
-Iron deficiency anemia
 Acromegaly
-Vasculitis
+Alcohol use
+Benign thunderclap headache
+Brain tumor
+Caffeine use
+Caffeine use
+Carbon monoxide toxicity
+Cavernous sinus thrombosis
+Cervical degenerative joint disease
+Concussion
+Eclampsia
+Head injury
+Hypoglycemia
+Idiopathic intracranial hypertension
+Iron deficiency anemia
 Malaria
+Malignant hypertension
+Meningitis
+Migraine
+Neurofibromatosis
+Nitrate use
+Parenchymal hemorrhage
+Pheochromocytoma
+Pituitary tumor
+Sinusitis
+Sleep apnea
+Subarachnoid hemorrhage
+Subdural hematoma
+Temporal arteritis
+Temporomandibular joint syndrome
+Upper respiratory tract infection
+Vasculitis

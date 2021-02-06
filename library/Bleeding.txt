@@ -1,33 +1,32 @@
-Trauma
-Tissue injury
-Tissue abnormality
-Thrombocytopenia
+AIDS
+Alcohol
+Anticoagulation medication use
+Autoimmune thrombocytopenia
 Bone marrow disease
 Bone marrow malignancy
-Alcohol
-Vitamin B12 deficiency
-Splenic sequestration
-Autoimmune thrombocytopenia
-Idiopathic thrombocytopenic purpura
-AIDS
-Lupus erythematosus
-Multiple myeloma
-lymphoma
-leukemia
-Anticoagulation medication use
 Carbamazepine use
-Sulfonamides use
-Lymphoproliferative disorders
 Disseminated intravascular coagulation
-Thrombotic thrombocytopenic purpura
-Sepsis
-von Willebrand disease
-Hereditary bleeding disorders
-NSAID use
-Myeloproliferative disorders
-essential thrombocythemia
-polycythemia vera
 Hemophilia A
+Hereditary bleeding disorders
+Idiopathic thrombocytopenic purpura
 Liver disease
+Lupus erythematosus
+Lymphoproliferative disorders
+Multiple myeloma
+Myeloproliferative disorders
+NSAID use
+Sepsis
+Splenic sequestration
+Sulfonamides use
+Thrombocytopenia
+Thrombotic thrombocytopenic purpura
+Tissue abnormality
+Tissue injury
+Trauma
+Vitamin B12 deficiency
 Vitamin K deficiency
-
+essential thrombocythemia
+leukemia
+lymphoma
+polycythemia vera
+von Willebrand disease

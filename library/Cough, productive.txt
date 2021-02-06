@@ -1,9 +1,9 @@
-Pneumonia
-COPD
-asthma
-Common cold
-Sinusitis
-Bronchitis
-Influenza
-community acquired pneumonia
 Aspiration pneumonia
+Bronchitis
+COPD
+Common cold
+Influenza
+Pneumonia
+Sinusitis
+asthma
+community acquired pneumonia

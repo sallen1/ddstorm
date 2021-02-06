@@ -1,28 +1,28 @@
-Heart failure
-Kidney disease
-Chronic kidney disease
-Nephrotic syndrome
-Hypoalbuminemia
-Monoamine oxidase inhibitor use
-Antihypertensives
-Synthetic hormone use
-NSAIDs
-Thiazolidinedione use
-Myxedema
-Venous obstruction
-Venous insufficiency
-Lymphatic obstruction
-Deep vein thrombosis
-Lymphedema
-Cellulitis
-Cirrhosis
-Liver disease
-Ovarian cancer
-Hypersensitivity reaction
-Goodpastures
-Amyloidosis
-Pregnancy
-Pre eclampsia
-Complement deficiency
 Acromegaly
+Amyloidosis
+Antihypertensives
+Cellulitis
+Chronic kidney disease
+Cirrhosis
+Complement deficiency
+Deep vein thrombosis
+Goodpastures
+Heart failure
+Hypersensitivity reaction
+Hypoalbuminemia
+Kidney disease
+Liver disease
+Lymphatic obstruction
+Lymphedema
+Monoamine oxidase inhibitor use
+Myxedema
+NSAIDs
+Nephrotic syndrome
+Ovarian cancer
+Pre eclampsia
+Pregnancy
+Synthetic hormone use
+Thiazolidinedione use
+Venous insufficiency
+Venous obstruction
 Vitamin B1 deficiency

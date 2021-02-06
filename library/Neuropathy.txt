@@ -1,27 +1,27 @@
-Lupus erythematosus
-Hyperglycemia
-Diabetes mellitus
-Chronic kidney failure
-Porphyria
-Amyloidosis
-Liver failure
-Hypothyroidism
-Heavy metal toxicity
-Guillain–Barré syndrome
-Leprosy 
-Multiple sclerosis
-Sjögren's syndrome
-Babesiosis
-Lyme disease
-Vasculitis
-Sarcoidosis
 AIDS
+Amyloidosis
+Babesiosis
 CNS tumor
-Monoclonal gammopathy
-Vitamin B12 deficiency
-Vitamin A deficiency
-Vitamin E deficiency
-Vitamin B1 deficiency
+Chronic kidney failure
+Diabetes mellitus
 Fluoroquinolone use
-Vasculitis
+Guillain Barre syndrome
+Heavy metal toxicity
+Hyperglycemia
+Hypothyroidism
 Leprosy
+Leprosy
+Liver failure
+Lupus erythematosus
+Lyme disease
+Monoclonal gammopathy
+Multiple sclerosis
+Porphyria
+Sarcoidosis
+Sjogren's syndrome
+Vasculitis
+Vasculitis
+Vitamin A deficiency
+Vitamin B1 deficiency
+Vitamin B12 deficiency
+Vitamin E deficiency

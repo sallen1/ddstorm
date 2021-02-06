@@ -1,3 +1,4 @@
-Transient ischemic attack
-Stroke
 Iron deficiency anemia
+Neurofibromatosis
+Stroke
+Transient ischemic attack

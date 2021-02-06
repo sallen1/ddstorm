@@ -1,38 +1,38 @@
-Goodpastures
-Kidney disease
-Nephrotic disease
-Pre-eclampsia
-Eclampsia
-Amyloidosis
-Lupus erythematosus
-Dehydration
-Glomerulonephritis
-IgA nephropathy
-Membranous nephropathy
-Sarcoidosis
-Alport syndrome
-Diabetes mellitus
-Fabry disease
-Infection
-Syphilis
 AIDS
-Hepatitis
-Schistosomiasis
-Fanconi syndrome 
-Wilson's disease
-Sickle cell disease
-Multiple myeloma
-Ebola virus disease
-Familial Mediterranean fever
-HELLP syndrome
-Rheumatoid arthritis
-Henoch Schonlein purpura
-Urinary tract infection
-Sjogren syndrome
-Polycystic kidney disease
-Monoclonal gammopathy
-Waldenstrom's macroglobulinemia
+Alport syndrome
+Amyloidosis
 Chronic lymphocytic leukemia
+Dehydration
+Diabetes mellitus
+Ebola virus disease
+Eclampsia
+Fabry disease
+Familial Mediterranean fever
+Fanconi syndrome
+Glomerulonephritis
+Goodpastures
+HELLP syndrome
+Henoch Schonlein purpura
+Hepatitis
+IgA nephropathy
+Infection
+Kidney disease
 Leukemia
+Lupus erythematosus
 Lymphoma
+Membranous nephropathy
+Monoclonal gammopathy
+Multiple myeloma
+Nephrotic disease
+Polycystic kidney disease
 Pre eclampsia
+Pre-eclampsia
+Rheumatoid arthritis
+Sarcoidosis
+Schistosomiasis
+Sickle cell disease
+Sjogren syndrome
+Syphilis
+Urinary tract infection
+Waldenstrom's macroglobulinemia
+Wilson's disease

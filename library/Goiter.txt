@@ -1,16 +1,16 @@
-Graves disease
-Iodine deficiency
-Hashimoto's thyroiditis
-Hypothyroidism
-Pituitary disease
-Thyroiditis
-Thyroid cancer
-Sarcoidosis
-Amyloidosis
 Acromegaly
-Pendred syndrome
+Amyloidosis
+Graves disease
+Hashimoto's thyroiditis
 Hyperthyroidism
-Menopause
-Lithium use
+Hypothyroidism
+Iodine deficiency
 Iodine toxicity
+Lithium use
+Menopause
+Pendred syndrome
+Pituitary disease
 Radiation therapy
+Sarcoidosis
+Thyroid cancer
+Thyroiditis

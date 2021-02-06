@@ -1,16 +1,16 @@
 AIDS
-Epilepsy
-Hypoglycemia
-Diabetes
-Insulin toxicity
-Nerve agent toxicity
-Aspiration pneumonia
-Lupus erythematosus
-Stroke
-Brain tumour
-CNS tumor
-Head trauma
-Drug use
 Alcohol toxicity
+Aspiration pneumonia
+Brain tumour
 CNS infection
+CNS tumor
+Diabetes
+Drug use
+Epilepsy
+Head trauma
+Hypoglycemia
 Hypoxia
+Insulin toxicity
+Lupus erythematosus
+Nerve agent toxicity
+Stroke

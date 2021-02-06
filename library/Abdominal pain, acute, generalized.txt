@@ -1,28 +1,28 @@
-Acute peritonitis
-Tuberculous peritonitis
-Intestinal obstruction
-Constipation
-Lead colic
-Gastric crises
-Functional abdominal pain
-Irritable bowel syndrome
-Hepatitis
-Appendicitis
 Abdominal aortic aneurysm
-Nerve agent toxicity
-Pregnancy
-Pre-eclampsia
+Acute peritonitis
+Appendicitis
+Constipation
+Functional abdominal pain
+Gastric crises
+Hepatitis
+Intestinal obstruction
 Iron deficiency anemia
+Irritable bowel syndrome
+Lead colic
+Nerve agent toxicity
+Pre-eclampsia
+Pregnancy
+Tuberculous peritonitis
 
 #General medical diseases-
-Malaria
-Porphyria
-Diabetic ketosis
 Blood dyscrasias
+Diabetic ketosis
 Henoch's purpura
-Sickle cell anemia
 Hypercalcaemia
+Malaria
 Parasitic infection
+Porphyria
+Sickle cell anemia
 
 #Autoimmune
 Common variable immunodeficiency

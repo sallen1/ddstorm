@@ -1,32 +1,32 @@
-Hemolytic anemia
-Liver disease
+Acute hepatitis
+Alcoholic liver disease
+Biliary atresia
+Biliary tract strictures
+Choledocholithiasis
+Cholestasis of pregnancy
+Chronic hepatitis
 Cirrhosis
+Crigler-Najjar syndrome
+Crigler-Najjar syndrome
+Drug-induced hepatitis
 G6PD deficiency
+Gilbert's syndrome
+Hemolytic anemia
+Hemolytic anemia
+Hemolytic-uremic syndrome
+Hepatotoxicity
+Leptospirosis
+Liver disease
+Malaria
+Mirizzi's syndrome
+Pancreatic cancer of the pancreatic head
+Pancreatitis
+Pancreatitis
+Parasitic infection
+Parasitic infection
+Primary biliary cholangitis
+Pyruvate kinase deficiency
+Scurvy
 Sickle-cell anemia
 Spherocytosis
 Thalassemia
-Pyruvate kinase deficiency
-Hemolytic anemia
-Hemolytic-uremic syndrome
-Malaria 
-Acute hepatitis
-Chronic hepatitis
-Hepatotoxicity
-Drug-induced hepatitis
-Alcoholic liver disease
-Gilbert's syndrome
-Crigler-Najjar syndrome
-Crigler-Najjar syndrome
-Leptospirosis
-Choledocholithiasis
-Pancreatic cancer of the pancreatic head
-Biliary tract strictures
-Biliary atresia
-Primary biliary cholangitis
-Cholestasis of pregnancy
-Pancreatitis
-Pancreatitis
-Mirizzi's syndrome
-Parasitic infection
-Parasitic infection
-Scurvy
