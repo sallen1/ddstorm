@@ -1,4 +1,4 @@
-Aplastic anaemia
+Aplastic anemia
 Myelodysplasia
 Myelofibrosis
 Leukaemia
@@ -27,3 +27,5 @@ Endocrinopathy
 Monoclonal gammopathy
 Iron deficiency anemia
 Common variable immunodeficiency
+Iron deficiency anemia
+B12 deficiency

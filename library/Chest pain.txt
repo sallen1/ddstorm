@@ -2,3 +2,4 @@ Goodpastures
 Heart failure
 Myocardial infarction
 Atrial fibrillation
+Iron deficiency anemia
