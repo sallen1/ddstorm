@@ -1,0 +1,42 @@
+Conventions used for names, spellings and style
+
+American spellings used
+
+Where a simpler term for a symptom can be used, it will be used, e.g. sweating instead of hyperhydrosis
+
+A convention for naming the following diseases is needed:
+
+kidney disease
+chronic kidney disease
+acute kidney disease
+hepatitis
+liver disease
+chronic hepatitis
+acute hepatitis
+
+A scope needs to be defined for certain diseases, e.g. hepatitis vs drug-induced hepatitis, how granular?
+
+Intoxication is used for substance abuse e.g. alcohol, drugs
+Toxicity is used for environmental substances e.g. carbon monoxide
+
+Systemic infections are listed under Infection
+Localised infections are listed under local domain
+
+HIV and & AIDS are referred to as AIDS
+
+Need to decide the scope, and how granular to go with specialties e.g. primary immunodeficiencies
+
+Categories list:
+
+Autoimmune
+Environmental
+Gastrointestinal
+Infectious
+Malignancy
+Metabolic
+Nephrology
+Neurological
+Obstetrics & Gynecological
+Psychiatric
+Respiratory
+Trauma
