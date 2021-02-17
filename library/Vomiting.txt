@@ -20,8 +20,11 @@ Celiac disease
 Constipation
 Gallstones
 Gastritis
+Hiatal hernia
 Ileus
 Lactose intolerance
+Peptic ulcer
+Perforated ulcer
 Peritonitis
 Viral gastroenteritis
 
@@ -37,6 +40,7 @@ Brain tumor
 Pheochromocytoma
 
 #Metabolic
+Diabetic ketoacidosis 
 Hypercalcemia
 Hyperglycemia
 Hypoglycemia
@@ -66,9 +70,9 @@ Kidney failure
 Rhabdomyolysis
 
 #Respiratory
-Aspiration pneumonia
+Pneumonia
 Coughing fits
-Mallory-Weiss tear
+Esophageal rupture
 
 #Trauma
 Concussion

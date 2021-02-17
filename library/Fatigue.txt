@@ -10,7 +10,7 @@ Chronic infection
 Chronic kidney disease
 Constipation
 Depression
-Diabetes mellitus
+Diabetes
 Goodpastures
 Haemolytic anemia
 Hashimoto's thyroiditis
@@ -29,6 +29,8 @@ Lyme disease
 Multiple sclerosis
 Myositis
 Narcolepsy
+Peptic ulcer
+Perforated ulcer
 Pregnancy
 Rheumatologic disease
 Sarcoidosis

@@ -20,6 +20,8 @@ Lymphoproliferative disorders
 Monoclonal gammopathy
 Myelodysplasia
 Myelofibrosis
+Peptic ulcer
+Perforated ulcer
 Sarcoidosis
 Sepsis
 Thalassemia

@@ -2,6 +2,7 @@ Alport syndrome
 Benign prostatic hyperplasia
 Bladder cancer
 Glomerulonephritis
+Goodpastures
 IgA nephropathy
 Kidney cancer
 Kidney stones
@@ -9,7 +10,6 @@ Nephritis
 Pyelonephritis
 Uretal cancer
 Ureteral cancer
-Urethral cancer
 Urinary tract infection
 benign familial hematuria
 sickle cell anemia

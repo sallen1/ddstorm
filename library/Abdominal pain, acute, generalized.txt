@@ -1,29 +1,152 @@
 Abdominal aortic aneurysm
-Acute peritonitis
+Abdominal wall pain
+Acute intermittent porphyria
+Adrenal insufficiency
 Appendicitis
+Angina
+Anxiety
+Biliary dyskinesia
+Cholangitis
+Cholecystitis
+Crohn’s disease
 Constipation
+Diabetic ketoacidosis
+Dissecting aneurysm
+Diverticulitis
+Duodenitis
+Familial Mediterranean fever
 Functional abdominal pain
 Gastric crises
+Gastric ulcer
+Gastroenteritis
+Gynecologic disease
+Heavy metal poisoning
 Hepatitis
 Intestinal obstruction
 Iron deficiency anemia
 Irritable bowel syndrome
+Kidney stones
+Lactase deficiency
 Lead colic
+Lead poisoning
+Malignancy
+Mesenteric ischemia
+Mittelschmerz
+Myocardial infarction
 Nerve agent toxicity
+Pancreatitis
+Pelvic inflammatory disease
+Peptic ulcer disease
+Pericarditis
+Peritonitis
+Pleurisy 
+Pneumonia
+Pneumothorax
+Porphyria
 Pre-eclampsia
 Pregnancy
-Tuberculous peritonitis
+Pyelonephritis
+Renal failure
+Spinal disease
+Testicular disease
+Trauma
+Uremia
+Urinary tract infection
+
 
 #General medical diseases-
 Blood dyscrasias
-Diabetic ketosis
-Henoch's purpura
+Diabetic ketoacidosis
+Henoch Schonlein purpura
 Hypercalcaemia
 Malaria
 Parasitic infection
 Porphyria
+Sexual abuse
 Sickle cell anemia
+Subphrenic abscess
 
 #Autoimmune
 Common variable immunodeficiency
 Vasculitis
+
+
+Cardiac
+Endocarditis
+Heart failure
+Myocardial infarction
+Myocardial ischemia
+Myocarditis
+
+Thoracic
+Empyema
+Esophageal rupture
+Esophageal spasm
+Esophagitis
+Pleurodynia
+Pneumonitis
+Pneumothorax
+Pulmonary embolism
+Pulmonary infarction
+
+Hematologic
+Leukemia
+Hemolytic anemia
+Henoch-Schönlein purpura
+Sickle cell disease
+
+Metabolic
+Addison’s disease
+Adrenal insufficiency
+Diabetes
+Diabetic ketoacidosis
+Hyperlipidemia
+Hyperparathyroidism
+Hypersensitivity reaction
+Lead poisoning
+Porphyria
+Toxins
+
+Infection
+Herpes zoster
+Osteomyelitis
+Typhoid fever
+
+Neurologic
+Abdominal epilepsy
+Radiculopathy
+Neoplasm
+Arthritis
+herniated vertebral disk
+Tabes dorsalis
+Syphilis 
+
+Miscellaneous
+Angioedema
+Familial Mediterranean fever
+Heat stroke
+hematoma 
+tumor
+Drug withdrawal
+Psychiatric disorders
+
+
+Intussusception
+Volvulus
+Meckel diverticulum
+Colic
+
+Diverticulosis
+Perforated ulcer
+inflammatory bowel disease
+Gastrointestinal perforation
+Inguinal hernia
+Neoplasm
+Appendicitis
+
+
+ectopic pregnancy
+ovarian cyst
+Mittelschmerz
+endometriosis
+vesiculitis

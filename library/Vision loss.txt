@@ -4,6 +4,7 @@ CNS tumor
 Cataracts
 Concussion
 Corneal opacification
+Diabetes
 Diabetic retinopathy
 Epilepsy
 Glaucoma

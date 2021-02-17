@@ -7,6 +7,7 @@ Chronic lymphocytic leukemia
 Common variable immunodeficiency
 Corticosteroids
 DiGeorge syndrome
+Leukemia
 Lymphoma
 Myeloma
 Nephrotic syndrome

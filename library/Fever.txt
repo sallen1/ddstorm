@@ -8,6 +8,6 @@ Malaria
 Parasitic infection
 Pneumonia
 Tuberculosis
+Urinary tract infection
 Vasculitis
 Viral gastroenteritis
-community acquired pneumonia

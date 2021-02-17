@@ -1,6 +1,6 @@
 AIDS
 Alcohol toxicity
-Aspiration pneumonia
+Pneumonia
 Brain tumour
 CNS infection
 CNS tumor

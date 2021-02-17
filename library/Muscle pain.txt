@@ -1,3 +1,45 @@
 Lupus erythematosus
 Rhabdomyolysis
 Vasculitis
+Potassium deficiency
+Fibromyalgia
+Ehlers Danlos syndrome
+Multiple sclerosis
+Influenza
+Lyme disease
+Babesiosis
+Malaria
+Toxoplasmosis
+Dengue fever
+Hemorrhagic fever
+Compartment syndrome
+Polio
+Rocky Mountain spotted fever
+Trichinosis
+Ebola
+
+Myositis
+Mixed connective tissue disease
+Familial Mediterranean fever
+Polyarteritis nodosa
+Devic's disease
+Morphea
+Sarcoidosis
+
+Conn's syndrome
+Adrenal insufficiency
+Hyperthyroidism
+Hypothyroidism
+Diabetes
+Hypogonadism
+
+Chronic fatigue syndrome
+Stickler Syndrome
+Hypokalemia
+Hypotonia
+Mastocytosis
+Peripheral neuropathy
+Herpes
+Hemochromatosis
+AIDS
+Generalized anxiety disorder

@@ -1,4 +1,3 @@
-Aspiration pneumonia
 Bronchitis
 COPD
 Common cold
@@ -10,5 +9,4 @@ Pneumonia
 Sarcoidosis
 Sinusitis
 asthma
-community acquired pneumonia
 

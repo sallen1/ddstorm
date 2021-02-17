@@ -1,26 +1,29 @@
-Heart failure
-Asthma
-Anxiety
-Pneumonia
 Acute upper airway obstruction 
-Hypersensitivity reaction
+Amyloidosis
+Anemia
+Anxiety
+Asthma
+Atrial fibrillation
+Autoimmune-mediated haemolytic anemia
+Blood loss
 Bronchospasm
-Respiratory tract infection
+Carbon monoxide toxicity
+Collapsed lung
+Diabetic ketoacidosis
+Goodpastures
 Goodpastures
 Haemolytic anemia
-Autoimmune-mediated haemolytic anemia
-Atrial fibrillation
-Anemia
-Blood loss
-Carbon monoxide toxicity
-Hypotension
-Pulmonary embolism
-Collapsed lung
+Heart failure
 Hiatal hernia
-obesity
-interstitial pulmonary fibrosis
-Goodpastures
-Sarcoidosis
-Amyloidosis
-Iron deficiency anemia
+Hypersensitivity reaction
+Hypotension
 Hypothyroidism
+interstitial pulmonary fibrosis
+Iron deficiency anemia
+Obesity
+Peptic ulcer
+Perforated ulcer
+Pneumonia
+Pulmonary embolism
+Respiratory tract infection
+Sarcoidosis
